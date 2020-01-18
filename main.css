@@ -13,13 +13,13 @@ body{
 h1{
 	 color: #2164A9;
 	 font-family: Advent;
-	 font-size: 5em
+	 font-size: 6vh
 }
 p{
 	color: #ffffff;
 	text-align: justify;
-	padding: 50px 100px;
-	font-size: 1.5em;
+	padding: 50px 50px;
+	font-size: 2vh;
 	font-family: Monst;
 	word-spacing: 5px;
 }

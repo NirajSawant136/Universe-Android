@@ -9,7 +9,7 @@ body {
 /* Heading */
 
 h1 {
-  font-size: 1.5em;
+  font-size: 1.5vh;
   text-align: center;
   padding: 70px 0 0 0;
   color: #EF8354;
@@ -18,8 +18,10 @@ h1 {
 }
 
 span {
-  border: 2px solid #4F5D75;
-  padding: 10px;
+  margin: 3vh 0vh;
+  border: 1vh solid #4F5D75;
+  padding: 2.5vh;
+  font-size: 3vh;
 }
 
 
@@ -27,7 +29,7 @@ span {
 
 #container {
   width: 100%;
-  margin: 0 auto;
+  margin: 4vh auto;
   padding: 50px 0 150px 0;
   display: flex;
   flex-direction: row;
@@ -40,14 +42,14 @@ span {
 
 .button {
   display: inline-flex;
-  height: 50px;
-  width: 170px;
+  height: 10vh;
+  width: 20vh;
   border: 2px solid #BFC0C0;
   margin: 20px 20px 20px 20px;
   color: #BFC0C0;
   text-transform: uppercase;
   text-decoration: none;
-  font-size: .9em;
+  font-size: 2vh;
   letter-spacing: 1.5px;
   align-items: center;
   justify-content: center;
@@ -299,7 +301,7 @@ a#button-1:hover img {
 
 @media screen and (min-width:1000px) {
   h1 {
-    font-size: 2.2em;
+    font-size: 3vh;
   }
   #container {
     width: 50%;
