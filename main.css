@@ -1,5 +1,5 @@
 body{
-	background:#363636;
+	background:#1E1E24;
 	text-align: center;
 }
 @font-face{
@@ -11,12 +11,12 @@ body{
 	font-family: Monst;
 }
 h1{
-	 color: #2164A9;
+	 color: #7FE4AF;
 	 font-family: Advent;
 	 font-size: 6vh
 }
 p{
-	color: #ffffff;
+	color: #CACACA;
 	text-align: justify;
 	padding: 50px 50px;
 	font-size: 2vh;
